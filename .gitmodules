@@ -1,0 +1,24 @@
+[submodule "external/SecLists"]
+	path = external/SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "external/Web-Fuzzing-Bpx"]
+	path = external/Web-Fuzzing-Bpx
+	url = https://github.com/gh0stkey/Web-Fuzzing-Box
+[submodule "external/dirb"]
+	path = external/dirb
+	url = https://github.com/v0re/dirb
+[submodule "external/dirsearch"]
+	path = external/dirsearch
+	url = https://github.com/maurosoria/dirsearch
+[submodule "external/dirmap"]
+	path = external/dirmap
+	url = https://github.com/H4ckForJob/dirmap
+[submodule "external/resolvers"]
+	path = external/resolvers
+	url = https://github.com/trickest/resolvers
+[submodule "external/n0kovo_subdomains"]
+	path = external/n0kovo_subdomains
+	url = https://github.com/n0kovo/n0kovo_subdomains
+[submodule "external/altdns"]
+	path = external/altdns
+	url = https://github.com/infosec-au/altdns
